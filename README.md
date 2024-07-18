@@ -1,14 +1,13 @@
-# SmartOrganizer
-to run this program you must run in the terminal of VS Code those commands :
+To run this program, follow these steps in the VS Code terminal:
 
+1. Install the necessary packages by running:
 npm install node express cors moment-timezone googleapis @google-cloud/local-auth uuid
 
-after those run this command to start the program :
-node . or node index.js.
-if it does not work, run this:
-cd SmartOrginaizer
-and then run this:
+2. Start the program with:
+node . or node index.js
+
+If it does not work, navigate to the SmartOrganizer directory and run:
+cd SmartOrganizer
 node index.js
 
-after the installation of all those libraries and commands please run the index.html in order to start the app.
-
+3. After installing all the libraries and running the commands, open index.html to start the app.
